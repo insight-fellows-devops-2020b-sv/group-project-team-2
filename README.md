@@ -1,4 +1,3 @@
-# group-project-team-2
 [![Build Status](https://img.shields.io/circleci/build/github/insight-fellows-devops-2020b-sv/group-project-team-2?style=for-the-badge)](https://app.circleci.com/pipelines/github/insight-fellows-devops-2020b-sv/group-project-team-2?branch=master)
 [![open-issues](https://img.shields.io/github/issues/insight-fellows-devops-2020b-sv/group-project-team-2?style=for-the-badge)](https://github.com/insight-fellows-devops-2020b-sv/group-project-team-2/issues)
 [![open-pr](https://img.shields.io/github/issues-pr/insight-fellows-devops-2020b-sv/group-project-team-2?style=for-the-badge)](https://github.com/insight-fellows-devops-2020b-sv/group-project-team-2/pulls)
