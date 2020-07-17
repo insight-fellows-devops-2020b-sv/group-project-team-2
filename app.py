@@ -123,4 +123,4 @@ if __name__ == '__main__':
 
     # ensure_dir(UPLOAD_FOLDER)
     # load_model()  # load model at the beginning once only
-    app.run(host='0.0.0.0', port=80)
+    app.run()
