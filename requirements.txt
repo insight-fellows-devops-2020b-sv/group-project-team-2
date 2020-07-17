@@ -1,3 +1,4 @@
+os
 numpy
 scikit-learn
 scikit-image
@@ -5,3 +6,8 @@ tensorflow
 keras
 h5py
 Flask
+requests
+base64
+pickle
+io
+json
