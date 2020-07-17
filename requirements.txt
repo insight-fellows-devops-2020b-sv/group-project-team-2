@@ -1,4 +1,3 @@
-os
 numpy
 scikit-learn
 scikit-image
