@@ -12,6 +12,12 @@ jobs:
       - python/install-deps
       - python/save-cache
       - run:
+          command: sh tf_serving.sh
+          name: starting tf serving...
+      - run:
+          command: python app.py
+          name: starting flask app...
+      - run:
           command: python manage.py
           name: Test
 
