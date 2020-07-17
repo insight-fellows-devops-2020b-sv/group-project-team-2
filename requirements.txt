@@ -6,5 +6,4 @@ keras
 h5py
 Flask
 requests
-io
 json
