@@ -1,4 +1,5 @@
 numpy
+scipy==1.4.1
 scikit-learn
 scikit-image
 tensorflow
