@@ -1,9 +1,4 @@
 numpy
-scipy==1.4.1
-scikit-learn
-scikit-image
-tensorflow
 keras
-h5py
 Flask
 requests
